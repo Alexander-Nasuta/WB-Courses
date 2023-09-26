@@ -10,5 +10,5 @@ jobs:
       - name: run python script
         run: |
           pip install -r requirements.txt
-          cd WB_CI-CD_for_Machine_Learning 
+          cd WB_CICD_for_Machine_Learning 
           python ci.py
